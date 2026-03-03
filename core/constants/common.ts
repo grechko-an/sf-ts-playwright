@@ -1,0 +1,12 @@
+export const SECOND = 1000;
+export const INVALID_EMAIL = 'INVALID_EMAIL';
+export const INVALID_CHARACTERS_PASSWORD = 'ТестПароль1!';
+export const INVALID_USERNAME = '7testuser';
+export const INVALID_SYMBOLS_USERNAME = 'ТестЮзер&';
+export const BROKEN_TOKEN = 'test_token';
+export const TERMS_AND_CONDITIONS_MODAL_TITLE = 'Terms and Conditions';
+export const SELECTED_LINK_COLOR_V_1 = 'rgb(237, 237, 237)';
+export const SELECTED_LINK_COLOR_V_2 = 'rgb(220, 171, 223)';
+export const SELECTED_LINK_COLOR_V_3 = 'rgb(222, 222, 222)';
+export const TEST_USER_EMAIL = 'autotest_scp_3@xmail.com';
+export const TEST_USER_PASSWORD = 'Test123!@#';
