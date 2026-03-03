@@ -24,8 +24,8 @@ wget https://github.com/allure-framework/allurectl/releases/latest/download/allu
 
 Currently, there are variables in GitLab:
 
-1. BASE_URL – the default URL for API tests (e.g., https://api-stage03.casino.scalefinal.io)
-2. BASE_URL_E2E – the default URL for E2E tests (e.g., https://front-stage03.casino.scalefinal.io)
+1. BASE_URL – the default URL for API tests (e.g., https://foo.bar.io)
+2. BASE_URL_E2E – the default URL for E2E tests (e.g., https://foo.bar.io)
 
 ### How to run automated tests:
 
