@@ -1,0 +1,7 @@
+{
+  "allure": {
+    "outputDir": "allure-results",
+    "disableWebdriverStepsReporting": false,
+    "disableWebdriverScreenshotsReporting": false
+  }
+}
